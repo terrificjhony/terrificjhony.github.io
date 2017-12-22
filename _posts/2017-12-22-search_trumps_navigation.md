@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "搜索优于导航"
-date:2017-12-22
+title: "搜索大于导航"
+date: 2017-12-22
 ---
 
 在读《卓有成效的程序员》时，看到了一条「搜索大于导航(Search Trumps Navigation)」，想到了阳志平老师之前的相关介绍。[^1]
