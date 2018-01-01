@@ -28,3 +28,12 @@ date: 2017-12-9
 > 我像太阳一样热爱生命和大海的全部深度。这对我来说意味着：一切深度都应该上升——到我的高度！
 -- 尼采 《查拉图斯特拉如是说》
 
+> 如果你想成为天才，就在你的头脑里随时准备好 12 个需要解决的问题
+ --费曼(来源待查证)
+
+> 设计理论就是搜索的一般理论。
+-- 赫伯特·西蒙(Herbert A. Simon)，人工科学（The Sciences of The Artificial）
+
+> The solution to the problem is seen in the vanishing of this problem.
+--Ludwig Wittgenstein 1922,prop. 6. 521
+
