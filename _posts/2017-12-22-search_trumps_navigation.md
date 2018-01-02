@@ -24,7 +24,7 @@ Paul Graham早年的创业项目Viaweb，当年的创新点，便是没有使用
 
 
 ### declarative programming
-[Declarative programming](https://en.wikipedia.org/wiki/Declarative_programming)，中文常常译作 声明式编程，与declarative programming 相对。从一个角度，可以理解为：不需要明确阐述具体的细节，只要说明的目标就可以。细节让计算机帮我处理。搜索大于导航背后，正是这样的思想。在现实生活中，其实也有类似的情境。小时候，若要穿袜子，就会喊一声：“妈，把袜子给我。”等长大了，自己搬出去住了，就得记住，那双情人节买的红色花袜子到底放哪儿了。
+[Declarative programming](https://en.wikipedia.org/wiki/Declarative_programming)，中文常常译作 声明式编程，与命令式编程(imperative programming) 相对。从一个角度，可以理解为：不需要明确阐述具体的细节，只要说明的目标就可以。细节让计算机帮我处理。搜索大于导航背后，正是这样的思想。在现实生活中，其实也有类似的情境。小时候，若要穿袜子，就会喊一声：“妈，把袜子给我。”等长大了，自己搬出去住了，就得记住，那双情人节买的红色花袜子到底放哪儿了。
 
 
 
