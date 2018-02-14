@@ -5,11 +5,9 @@ date: 2018-1-5
 ---
 
 #### 造神运动
-随着信息膨胀而来的，是诸神的兴起。众多人物在社区内被捧为「大牛」、「大v」，他们的很多东西，看起来真的是那么回事儿。那么问题来了，这些人真的有那么牛么？
+随着信息膨胀而来的，是诸神的兴起。众多人物在社区内被捧为「大牛」、「大v」，他们的很多东西，看起来真的是那么回事儿。时间，能让食物变质，也让想法与牛人速朽。热烈地吸收这些思想，却并没有带来巨大的改变，我们不禁要问：这些人真的有那么牛么？
 
-其实没有。有的甚至在日常生活中没什么成就，仅靠答题成了大V。哈哈。接着，伴随而来的，是神之地位的进一步巩固：写畅销书、用自己的名气圈钱圈粉。那么， 圈钱真的不好吗？这只是大v为了生活而已，没什么值得批评的吧？
-
-然而我们要说的，是另一件事情。
+没有。以下是一类大V的崛起过程：日常生活中没什么成就，仅靠答题成了社区内的大神。接着，伴随而来的，是神之地位的进一步巩固：写畅销书、用自己的名气圈钱圈粉。那么， 圈钱真的不好吗？这只是大v为了生活而已，没什么值得批评的吧？
 
 #### 里子和面子
 我们看到，其实这些人，很多还只是“键盘侠”，或者说，他们的”实践成果“其实没那么强。在《反脆弱》中，作者塔勒布揭示了以下惊人的事实：
@@ -29,11 +27,11 @@ date: 2018-1-5
 众多逻辑自洽的文章 ==> 少数成功的人
 
 
-此处插入塔勒布的认识论图表。
+![](https://github.com/terrificjhony/image_store/blob/master/taleb-epistemology.png?raw=true)
 
 当我们谈论科学时，我们会想到一个个实验、变量的计算公式。仿佛这样才是科学。但科学其实不止于此。更重要的，是怀疑的精神。我们看到，逻辑本身并不意味着正确，逻辑自洽是一件非常常见的事情。「缸中之脑」、「中文屋」、「笛卡尔妖魔」这些都是在逻辑上可行 的，但是它们基本不会存在于现实之中。
 
-![the possible and the actual](possible-and-the-actual.jpeg)
+![](https://github.com/terrificjhony/image_store/blob/master/possible-and-the-actual.jpeg?raw=true)
 
 
 
@@ -58,10 +56,10 @@ date: 2018-1-5
 #### 总结
 弱水三千，与强者同行。
 
-[^1]：[什么才是真正的财富 #1570](https://mp.weixin.qq.com/s?__biz=MzAxNTMxMTc0MA==&mid=503532781&idx=1&sn=812a0596b945ad44ca374659303fe4db&chksm=00721afe370593e84b82ab733fc9708da9f7f4595de6638a9c5434616c23884b4c5ed1ae9c4e&scene=20&key=dde1e3347992b3691f581bbee31092de89ff87d30feaaea0abfb21f595801a47db006c84dd5dc073907b52e5be49701b334797a699d7b1b6b84355f4257f864cdfb5426627e4818ea7912d9aa22ae221&ascene=0&uin=MTIwMjMwNDI0MQ%3D%3D&devicetype=iMac+MacBookAir7%2C2+OSX+OSX+10.11.6+build(15G18013)&version=12020010&nettype=WIFI&lang=en&fontScale=100&pass_ticket=knA1WP1gGBHKrB5mizB2GRa46t5HQzfZreIuiXz09yOXsHsDdDB7JfUVCIOEwC1Y)
+[^1] [什么才是真正的财富 #1570](https://mp.weixin.qq.com/s?__biz=MzAxNTMxMTc0MA==&mid=503532781&idx=1&sn=812a0596b945ad44ca374659303fe4db&chksm=00721afe370593e84b82ab733fc9708da9f7f4595de6638a9c5434616c23884b4c5ed1ae9c4e&scene=20&key=dde1e3347992b3691f581bbee31092de89ff87d30feaaea0abfb21f595801a47db006c84dd5dc073907b52e5be49701b334797a699d7b1b6b84355f4257f864cdfb5426627e4818ea7912d9aa22ae221&ascene=0&uin=MTIwMjMwNDI0MQ%3D%3D&devicetype=iMac+MacBookAir7%2C2+OSX+OSX+10.11.6+build(15G18013)&version=12020010&nettype=WIFI&lang=en&fontScale=100&pass_ticket=knA1WP1gGBHKrB5mizB2GRa46t5HQzfZreIuiXz09yOXsHsDdDB7JfUVCIOEwC1Y)
 
-[^2]原文尚未找到出处，凭记忆写下。
+[^2]: 原文尚未找到出处，凭记忆写下。
 
 [^3]: [如何建立好的学习习惯系统？ - 阳志平的网志](http://www.yangzhiping.com/psy/EstablishLearningSystem.html)
 
-[]: [看得见的手 (豆瓣)](https://book.douban.com/subject/1053848/) 讲述了时代变革中，全新的管理阶层兴起的历史。
+[^4]: [看得见的手 (豆瓣)](https://book.douban.com/subject/1053848/) 讲述了时代变革中，全新的管理阶层兴起的历史。
