@@ -15,6 +15,8 @@ date: 2018-1-3
 我们应该信奉的，是强者的思维，这些思想，应该像风一样荡平弱者，不用怜悯，直接打败。
 为什么说`sb`，因为说不通。没必要花那么多力气说服。不相信房子要涨，直接`sb`，现实会令`sb`二字刻骨铭心。
 
+![](https://github.com/terrificjhony/image_store/blob/master/bullshit.jpg?raw=true)
+
 ###  marketing ——用户视角
 为什么marketing如此重要。在欧神的文章中，欧神谈到了，为什么很多的技术创业者失败，因为完完全全忽略了营销，完全不懂。marketing，核心是从用户角度看待产品。这是分析很多问题的最基本框架。
 
