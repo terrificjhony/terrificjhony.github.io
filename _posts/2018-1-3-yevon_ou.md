@@ -16,6 +16,9 @@ date: 2018-1-3
 
 曾看过丹尼特(Dennett)一篇文章 Sturgeon's Law，大意为，世界上99%的内容都是垃圾，完全没必要浪费精力。要是对其做回应，只会让自己丢脸。
 
+知乎这样的论坛，完全没必要回复，也就看看。
+
+这样，你可以看到一个矛盾：克制与反驳。最合理的解释，是怜悯。
 能回复你就不错了。
 
 ![](https://github.com/terrificjhony/image_store/blob/master/bullshit.jpg?raw=true)
