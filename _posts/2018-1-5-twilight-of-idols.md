@@ -56,10 +56,10 @@ date: 2018-1-5
 #### 总结
 弱水三千，与强者同行。
 
-[^1] [什么才是真正的财富 #1570](https://mp.weixin.qq.com/s?__biz=MzAxNTMxMTc0MA==&mid=503532781&idx=1&sn=812a0596b945ad44ca374659303fe4db&chksm=00721afe370593e84b82ab733fc9708da9f7f4595de6638a9c5434616c23884b4c5ed1ae9c4e&scene=20&key=dde1e3347992b3691f581bbee31092de89ff87d30feaaea0abfb21f595801a47db006c84dd5dc073907b52e5be49701b334797a699d7b1b6b84355f4257f864cdfb5426627e4818ea7912d9aa22ae221&ascene=0&uin=MTIwMjMwNDI0MQ%3D%3D&devicetype=iMac+MacBookAir7%2C2+OSX+OSX+10.11.6+build(15G18013)&version=12020010&nettype=WIFI&lang=en&fontScale=100&pass_ticket=knA1WP1gGBHKrB5mizB2GRa46t5HQzfZreIuiXz09yOXsHsDdDB7JfUVCIOEwC1Y)
+[^1]： [什么才是真正的财富 #1570](https://mp.weixin.qq.com/s?__biz=MzAxNTMxMTc0MA==&mid=503532781&idx=1&sn=812a0596b945ad44ca374659303fe4db&chksm=00721afe370593e84b82ab733fc9708da9f7f4595de6638a9c5434616c23884b4c5ed1ae9c4e&scene=20&key=dde1e3347992b3691f581bbee31092de89ff87d30feaaea0abfb21f595801a47db006c84dd5dc073907b52e5be49701b334797a699d7b1b6b84355f4257f864cdfb5426627e4818ea7912d9aa22ae221&ascene=0&uin=MTIwMjMwNDI0MQ%3D%3D&devicetype=iMac+MacBookAir7%2C2+OSX+OSX+10.11.6+build(15G18013)&version=12020010&nettype=WIFI&lang=en&fontScale=100&pass_ticket=knA1WP1gGBHKrB5mizB2GRa46t5HQzfZreIuiXz09yOXsHsDdDB7JfUVCIOEwC1Y)
 
 [^2]: 原文尚未找到出处，凭记忆写下。
 
 [^3]: [如何建立好的学习习惯系统？ - 阳志平的网志](http://www.yangzhiping.com/psy/EstablishLearningSystem.html)
 
-[^4]: [看得见的手 (豆瓣)](https://book.douban.com/subject/1053848/) 讲述了时代变革中，全新的管理阶层兴起的历史。
+[^4]:  [看得见的手 (豆瓣)](https://book.douban.com/subject/1053848/) 讲述了时代变革中，全新的管理阶层兴起的历史。

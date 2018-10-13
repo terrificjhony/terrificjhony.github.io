@@ -23,7 +23,7 @@ layout: feed
 			<content type="html">{{ post.content | xml_escape }}</content>
 		</entry>
 	{% endfor %}
-	{% for post in site.Quotes %}
+	{% for post in site.quotes %}
 		<entry>
 			<title>{{ post.title }}</title>
 			<link href="http://terrificjhony.github.io{{ post.url }}"/>
