@@ -21,9 +21,7 @@ Paul Graham早年的创业项目Viaweb，当年的创新点，便是没有使用
 ## 改进：借助AI的搜索
 然而单靠文件名还不够pragmatic。比如，首字母大写这样操作，在之前的emacs中，我都是在search栏打出`capital`，但是在TextMate中，对应的则是`titlecase`。这样，因为我一开始使用的时候，仍然要借助鼠标找到这一操作。借助人工智能，可以解决此类问题。通过匹配我之前使用的emacs记录，来建立操作上的对应关系。这样，当我输入`capital`时，能够调出`titlecase`操作。
 
-
-
-###declarative programming
+### declarative programming
 [Declarative programming](https://en.wikipedia.org/wiki/Declarative_programming)，中文常常译作 声明式编程，与命令式编程(imperative programming) 相对。从一个角度，可以理解为：不需要明确阐述具体的细节，只要说明的目标就可以。细节让计算机帮我处理。搜索大于导航背后，正是这样的思想。在现实生活中，其实也有类似的情境。小时候，若要穿袜子，就会喊一声：“妈，把袜子给我。”等长大了，自己搬出去住了，就得记住，那双情人节买的红色花袜子到底放哪儿了。
 
 

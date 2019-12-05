@@ -4,9 +4,8 @@
 * [女权](https://mp.weixin.qq.com/s?__biz=MzAxNTMxMTc0MA==&mid=2651016268&idx=1&sn=99931e52562f2d05ebe2bc1eaecb7f61&chksm=80721a5fb705934991606126d130771f74478eca92bfef36dc02399c8f2c1a67bb7c5294d9ba#rd)
 * 同性恋
 * 有神论者
-* 左派
-* 小清新。（识别方式：旅游、美食、名牌、穷）
-* 八卦达人
+* 皿煮认识
+* 小清新。（识别方式：旅游、美食、穷）
 * 空想家（https://book.douban.com/subject/4247329/）
 * 仪器崇拜者（https://book.douban.com/subject/4247329/）
 * 格格不入者（https://book.douban.com/subject/4247329/）
