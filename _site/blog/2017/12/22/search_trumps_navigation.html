@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>搜索大于导航</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+		</head>
+		<body>
+			<nav>
+	    		<ul>
+	        		<li><a href="/">Home</a></li>
+		        	<li><a href="/quotes/quotes.md">Quotes</a></li>
+	        		<li><a href="/blog">Blog</a></li>
+	    		</ul>
+			</nav>
+			<div class="container">
+			
+			<h1>搜索大于导航</h1>
+<p class="meta">22 Dec 2017</p>
+
+<div class="post">
+  <p>在读<a href="https://book.douban.com/subject/3558788/">《卓有成效的程序员》</a>时，看到了一条「搜索大于导航(Search Trumps Navigation)」，想到了阳志平老师之前的相关介绍。<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>阳老师非常优雅地将「少分类，多搜索」这一技巧，用到了文件管理中，这样也更便于记忆。并且阳老师在文件命名方面提供了有益的建议。</p>
+
+<p>那么，「少分类，多搜索」准则，可以复用至更多领域吗？自己找了点这方面的例子，有待增补：</p>
+<h2 id="mac-使用技巧">mac 使用技巧</h2>
+<p>使用电脑的一个常识是，尽量使用快捷键而不是鼠标，可以大幅提高工作效率。可是，不同软件有着不同的快捷键，一开始根本记不住，只能先用鼠标去找相关的操作。这时，我们就可以利用mac中的一个特点，来减少鼠标的路径搜索：按下⌘（command）+⇧（shift）+ ‘/’，就可以打开help中的「search」，接着输入关键字，快速剪枝，找到想要的操作。例如，
+<img src="https://github.com/terrificjhony/image_store/blob/master/search%20trumps%20navigation.png?raw=true" alt="" /></p>
+
+<p>这样，在同类型软件中切换，会方便得多，因为举一反三，记住了A中的操作名，我们就可以通过搜索处理B中的相关操作，并且借此掌握这些操作的快捷键。</p>
+
+<h2 id="网页端程序">网页端程序</h2>
+<p>Paul Graham早年的创业项目Viaweb，当年的创新点，便是没有使用客户端程序，直接在网页端构建。类似的，现在的微信小程序，相比于专门下载客户端，看起来也是一个好得多的选择。只要通过搜索就可以加载小程序，并且依赖微信平台免去了注册步骤。这可能是以后产品的方向。</p>
+
+<h2 id="改进借助ai的搜索">改进：借助AI的搜索</h2>
+<p>然而单靠文件名还不够pragmatic。比如，首字母大写这样操作，在之前的emacs中，我都是在search栏打出<code class="highlighter-rouge">capital</code>，但是在TextMate中，对应的则是<code class="highlighter-rouge">titlecase</code>。这样，因为我一开始使用的时候，仍然要借助鼠标找到这一操作。借助人工智能，可以解决此类问题。通过匹配我之前使用的emacs记录，来建立操作上的对应关系。这样，当我输入<code class="highlighter-rouge">capital</code>时，能够调出<code class="highlighter-rouge">titlecase</code>操作。</p>
+
+<h3 id="declarative-programming">declarative programming</h3>
+<p><a href="https://en.wikipedia.org/wiki/Declarative_programming">Declarative programming</a>，中文常常译作 声明式编程，与命令式编程(imperative programming) 相对。从一个角度，可以理解为：不需要明确阐述具体的细节，只要说明的目标就可以。细节让计算机帮我处理。搜索大于导航背后，正是这样的思想。在现实生活中，其实也有类似的情境。小时候，若要穿袜子，就会喊一声：“妈，把袜子给我。”等长大了，自己搬出去住了，就得记住，那双情人节买的红色花袜子到底放哪儿了。</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>“在文件层级的最后一个注意事项是少分类，多搜索。” – <a href="http://www.yangzhiping.com/psy/yang-KnowledgeSystem.html">构建优雅的知识创造系统 - 阳志平的网志</a> <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+</div>
+
+			
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+	        		<li><a href="mailto:763612666@qq.com">email</a></li>
+	        		<li><a href="https://github.com/terrificjhony">github.com/terrificjhony</a></li>
+				</ul>
+			</footer>
+		</body>
+	</html>
